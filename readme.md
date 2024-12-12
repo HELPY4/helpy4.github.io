@@ -13,4 +13,4 @@
  
 Спасибо за прочтение1
 
-*Источники информации: (https://www.yaklass.ru/p/obshchestvoznanie/6-klass/obshchestvo-v-kotorom-my-zhivem-383889/chto-takoe-obshchestvo-376560/re-4da8d042-e453-4baa-84d6-6b0ddc69d9b1)[первый], [второй](https://bguor.ru/subjects/ae-umk-history/html/society/html_pages/h3/h3_1.html) (https://www.work5.ru/article/esse)[третий] + учебник*
+*Источники информации: [первый](https://www.yaklass.ru/p/obshchestvoznanie/6-klass/obshchestvo-v-kotorom-my-zhivem-383889/chto-takoe-obshchestvo-376560/re-4da8d042-e453-4baa-84d6-6b0ddc69d9b1), [второй](https://bguor.ru/subjects/ae-umk-history/html/society/html_pages/h3/h3_1.html) [третий](https://www.work5.ru/article/esse) + учебник*
