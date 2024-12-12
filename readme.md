@@ -1,4 +1,4 @@
-Это эссе по обществознанию.
+# Это эссе по обществознанию.
  
 Так ли необходимо участие граждан в политической жизни общества? Я думаю, что да. Это эссе посвящено причинам и последствиям этого участия по которым участие граждан в политике является важным.
  
@@ -13,4 +13,6 @@
  
 Спасибо за прочтение1
 
-*Источники информации: [первый](https://www.yaklass.ru/p/obshchestvoznanie/6-klass/obshchestvo-v-kotorom-my-zhivem-383889/chto-takoe-obshchestvo-376560/re-4da8d042-e453-4baa-84d6-6b0ddc69d9b1), [второй](https://bguor.ru/subjects/ae-umk-history/html/society/html_pages/h3/h3_1.html) [третий](https://www.work5.ru/article/esse) + учебник*
+> [!TIP] *Источники информации: [первый](https://www.yaklass.ru/p/obshchestvoznanie/6-klass/obshchestvo-v-kotorom-my-zhivem-383889/chto-takoe-obshchestvo-376560/re-4da8d042-e453-4baa-84d6-6b0ddc69d9b1), [второй](https://bguor.ru/subjects/ae-umk-history/html/society/html_pages/h3/h3_1.html) [третий](https://www.work5.ru/article/esse) + учебник*
+
+<ins>Попов Рома 9в</ins>
